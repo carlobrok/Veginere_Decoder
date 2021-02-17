@@ -1,3 +1,13 @@
+/*
+
+MIT License
+
+Copyright (c) 2021 Carlo Brokering
+
+-> For more detail view license file.
+
+*/
+
 String verschluesselt = "";                  // Verschlüsselter text wird hier gespeichert
 String fileName = "verschluesselt.txt";      // Vigenere-Text z.B. von hier: https://gc.de/gc/vigenere/
 
